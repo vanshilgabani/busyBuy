@@ -18,9 +18,8 @@ Welcome to *BusyBuy*, a modern and user-friendly e-commerce platform designed to
 ## 💻 *Tech Stack*
 - *Frontend:* React.js ⚛  
 - *Backend:* Node.js + Express.js 🛠  
-- *Database:* MongoDB 🍃  
-- *State Management:* Redux 📦  
-- *Styling:* CSS & Bootstrap 🎨  
+- *Database:* MongoDB 🍃    
+- *Styling:* Tailwind CSS 🎨  
 
 ---
 
@@ -30,8 +29,7 @@ Welcome to *BusyBuy*, a modern and user-friendly e-commerce platform designed to
 
 ---
 
-## 🎉 *Usage*
-- Access the website at http://localhost:3000.  
+## 🎉 *Usage*  
 - Admins can manage products and orders directly from the Admin Dashboard.  
 - Users can browse products, add them to their carts, and proceed with the checkout.
 
